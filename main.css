@@ -204,7 +204,28 @@ header{
 .featured-text{
     display: flex;
 }
- 
+
+.featured-text-para{
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+
+.spotlight{
+    margin: 1rem;
+}
+
+.spotlight-more-heading-topic{
+    margin: 1rem;
+}
+
+.spotlight-para{
+    margin-left: 1rem;
+}
+
+
+.take{
+    display: flex;
+}
 
 /****** section catergories ends *****/
 
